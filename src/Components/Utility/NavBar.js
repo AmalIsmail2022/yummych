@@ -22,7 +22,7 @@ const NavBar = () => {
             navbarScroll
           >
             <Nav.Link href="/" className='fw-bold' style={{color:'#f6edd8' }}>Home</Nav.Link>
-            <Nav.Link href="amalismail2022.github.io/yummych/#/login" className='fw-bold' style={{color:'#b0664d' }}>Login</Nav.Link>
+            <Nav.Link href="/login" className='fw-bold' style={{color:'#b0664d' }}>Login</Nav.Link>
             <Nav.Link href="/products" className='fw-bold' style={{ color: '#b0664d' }}>Categories</Nav.Link>
             <Nav.Link href="/cart"> <img src={cart} className="login-img" /></Nav.Link>
            
