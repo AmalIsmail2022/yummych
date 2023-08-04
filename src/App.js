@@ -28,7 +28,7 @@ function App() {
       <HashRouter>
         <Routes>
           <Route path="/" element={<HomePage />}/>
-          <Route path="yummych/#/login" element={<LoginPage />} />
+          <Route path="/yummych/#/login" element={<LoginPage />} />
           <Route path="/cart" element={<CartPage />} />
           <Route path="/signup" element={<RegisterPage />} />
           <Route path="/products" element={<ProductsPage />} />
