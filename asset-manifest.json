@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yummych/static/css/main.5964503d.css",
-    "main.js": "/yummych/static/js/main.30b78bd1.js",
+    "main.js": "/yummych/static/js/main.9125b285.js",
     "static/media/log-bg.jpg": "/yummych/static/media/log-bg.c15d91506e13afe047a0.jpg",
     "static/media/fruit-choco.png": "/yummych/static/media/fruit-choco.df5e82f4d0c087498621.png",
     "static/media/bars.png": "/yummych/static/media/bars.1384eee9c98459e3f745.png",
@@ -41,10 +41,10 @@
     "static/media/edit.png": "/yummych/static/media/edit.3a5719e61661a36f0f6b.png",
     "index.html": "/yummych/index.html",
     "main.5964503d.css.map": "/yummych/static/css/main.5964503d.css.map",
-    "main.30b78bd1.js.map": "/yummych/static/js/main.30b78bd1.js.map"
+    "main.9125b285.js.map": "/yummych/static/js/main.9125b285.js.map"
   },
   "entrypoints": [
     "static/css/main.5964503d.css",
-    "static/js/main.30b78bd1.js"
+    "static/js/main.9125b285.js"
   ]
 }
